@@ -69,4 +69,4 @@ https://appy96.shinyapps.io/Covid_Test_Data/?_ga=2.183522662.1175919676.16007185
 - github Repo
 https://github.com/appy2696/Covid_test_data/tree/master/Covid_Test_Data
 - Presentation
-
+https://rpubs.com/apoorvsaxena96/664019
