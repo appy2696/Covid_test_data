@@ -65,7 +65,7 @@ Data file:
 
 The ui.R and server.R are the code for the shiny application:
 - Shiny app
-https://github.com/appy2696/Covid_test_data/tree/master/Covid_Test_Data
+https://appy96.shinyapps.io/Covid_Test_Data/?_ga=2.183522662.1175919676.1600718586-1621273716.1600718586
 - github Repo
 https://github.com/appy2696/Covid_test_data/tree/master/Covid_Test_Data
 - Presentation
